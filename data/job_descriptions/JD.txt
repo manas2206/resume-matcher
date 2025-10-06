@@ -1,0 +1,5 @@
+Data Scientist
+
+We are looking for a Data Scientist experienced in Python, PyTorch or TensorFlow, and building end-to-end machine learning pipelines. 
+The candidate should be skilled in NLP or Computer Vision, SQL, and cloud deployment (AWS/GCP). 
+Experience with Docker, FastAPI, and model deployment in production is highly desirable.
